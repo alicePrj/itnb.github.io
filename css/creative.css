@@ -233,8 +233,15 @@ header .header-content .header-content-inner p {
     margin: 20px auto 0;
   }
 }
+.service-box h3 {
+  font-weight: 400;
+  font-size: 18px;
+}
 .service-box p {
   margin-bottom: 0;
+}
+.text-faded {
+  font-size: 12px;
 }
 .portfolio-box {
   position: relative;
