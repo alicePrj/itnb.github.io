@@ -13,6 +13,23 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 
+
+
+# 서버 작동
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "https://github.com/alicePrj/itnb.github.io" # does not include hostname
+
+# 출력 방식
+permalink:     date
+paginate_path: /page:num
+timezone:      null
+
+
+
+
+
 title : study
 tagline: study
 author :
